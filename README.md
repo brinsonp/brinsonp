@@ -8,10 +8,10 @@ Currently Learning
 
 Right now, I'm focused on growing my data science skills through coursework and hands-on projects. Some areas I'm currently developing include:
 
-  Python
-  Statistics
-  Data visualization
-  Communicating analytical findings
-  GitHub and portfolio development
+- Python
+- Statistics
+- Data visualization
+- Communicating analytical findings
+- GitHub and portfolio development
 
 My goal is to combine these technical skills with my background in operations, risk, and compliance.
