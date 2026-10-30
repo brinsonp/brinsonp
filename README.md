@@ -5,6 +5,7 @@ My experience analyzing information, managing workflows, and making decisions in
 I’m excited to build my skills in data analysis and learn how I can use data to make better, more informed decisions in healthcare and beyond.
 
 Currently Learning
+
 Right now, I'm focused on growing my data science skills through coursework and hands-on projects. Some areas I'm currently developing include:
 
 Python
